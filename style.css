@@ -1,0 +1,23 @@
+body{
+    background-color: cyan
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 35px;
+    margin-right: 20px;
+    float:right
+}
+
+#show_sketch{
+    float: right;
+}
+
+h1{
+    background-color: darkturquoise;
+    padding: 10px;
+}
